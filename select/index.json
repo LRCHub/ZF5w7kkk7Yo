@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "What's Going On?",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-27T01:30:07.235102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What's Going On In Your World",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/01_What's_Going_On_In_Your_World_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What's Going On In Your World (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_What's_Going_On_In_Your_World_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What's Going On In Your World (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_What's_Going_On_In_Your_World_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "マーヴィン・ゲイ",
+      "has_synced": true,
+      "path": "select/04_What's_Going_On_マーヴィン・ゲイ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/05_What's_Going_On_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Blind Mr. Jones",
+      "has_synced": false,
+      "path": "select/06_What's_Going_On_Blind_Mr._Jones.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "(I Don't Know What's Going) On",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/07_(I_Don't_Know_What's_Going)_On_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(I Don’t Know What’s Going) On",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/08_(I_Don’t_Know_What’s_Going)_On_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/09_What's_Going_On_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What's Going On?",
+      "artist": "Quincy Jones",
+      "has_synced": false,
+      "path": "select/10_What's_Going_On_Quincy_Jones.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Hüsker Dü",
+      "has_synced": false,
+      "path": "select/11_What's_Going_On_Hüsker_Dü.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Senser",
+      "has_synced": true,
+      "path": "select/12_What's_Going_On_Senser.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What’s Going On",
+      "artist": "Senser",
+      "has_synced": true,
+      "path": "select/13_What’s_Going_On_Senser.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Jungle Brothers",
+      "has_synced": false,
+      "path": "select/14_What's_Going_On_Jungle_Brothers.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Sick Of It All",
+      "has_synced": false,
+      "path": "select/15_What's_Going_On_Sick_Of_It_All.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What's Going On",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/16_What's_Going_On_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What's Going On (Club Version)",
+      "artist": "Cyndi Lauper",
+      "has_synced": false,
+      "path": "select/17_What's_Going_On_(Club_Version)_Cyndi_Lauper.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What's Going On [Long Version]",
+      "artist": "Cyndi Lauper",
+      "has_synced": true,
+      "path": "select/18_What's_Going_On_[Long_Version]_Cyndi_Lauper.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What's Going On?",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_What's_Going_On_Official髭男dism.txt"
+    }
+  ]
+}
